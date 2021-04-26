@@ -2,6 +2,7 @@
 
 members = [
     "rusb",
+    "libusb1-sys",
 ]
 
 
